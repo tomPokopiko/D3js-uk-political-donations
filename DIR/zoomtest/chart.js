@@ -340,7 +340,7 @@ function mouseout() {
 			.style("display", "none");
 		}
 
-$(".word_split").lettering('words');
+
 
 $(document).ready(function() {
 		d3.selectAll(".switch").on("click", function(d) {
@@ -349,6 +349,10 @@ $(document).ready(function() {
     });
     return d3.csv("data/7500up.csv", display);
 
+}
+$(document).ready(function() {
+  $(".word_split").lettering('words');
 });
+);
 
 
