@@ -238,4 +238,5 @@ https://github.com/yui/pure/blob/master/LICENSE.md
 }
 .word_split span:hover {
     font-weight:bold;
+    font-size: 250%;
 }
