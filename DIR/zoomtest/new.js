@@ -1,0 +1,1 @@
+$(".word_split").lettering('words');
