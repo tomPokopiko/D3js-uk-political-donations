@@ -8,8 +8,17 @@ p {
 strong {
     font-weight: 700;
 }
-h1, h2, h3, h4, h5 {
+h1, h3, h4, h5 {
     margin: 10px 0 15px 0;
+}
+.letter
+{
+	margin: 10px 0 15px 0;
+	color: #ff4040;
+}
+.letter span:hover {
+	font-weight:bold;
+	font-size : 250%;
 }
 header, nav {
     text-align: center;
@@ -236,11 +245,4 @@ https://github.com/yui/pure/blob/master/LICENSE.md
     color: rgb(0, 120, 231);
     color: #fff
 }
-.letter
-{
-	color: #ff4040;
-}
-.letter span:hover {
-	font-weight:bold;
-	font-size : 250%;
-}
+
