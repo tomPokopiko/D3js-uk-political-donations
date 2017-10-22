@@ -236,3 +236,11 @@ https://github.com/yui/pure/blob/master/LICENSE.md
     color: rgb(0, 120, 231);
     color: #fff
 }
+.letter
+{
+	color: #000000;
+}
+.letter span:hover {
+	font-weight:bold;
+	font-size : 250%;
+}
